@@ -1,19 +1,31 @@
 body {
 	background: orange;
-	font: arial:
-;}
+	font: arial;
+}
+
+/* navigation */
+a {
+	font-size: 24px;
+	color: white
+	text-decoration: none;
+}
 
 img{
 	width: 300px;
 }
-
+/* containers */
 #leftcol {
 	background: blue;
+	width: 400px;
 }
 
 #rightcol {
 	background: red;
+	width: 400px
 }
 
 .round {border-radius: 20px;
+}
+
+.shadow {box-shadow: 10px 10px 10px black;
 }
