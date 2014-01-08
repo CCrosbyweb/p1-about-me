@@ -16,11 +16,13 @@ img{
 /* containers */
 #leftcol {
 	background: blue;
+	float: left;
 	width: 400px;
 }
 
 #rightcol {
 	background: red;
+	float: left;
 	width: 400px
 }
 
